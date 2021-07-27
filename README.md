@@ -5,7 +5,12 @@
 ![Screenshot_2021-07-27-16-24-16-500_com android chrome](https://user-images.githubusercontent.com/53171696/127146133-6fb7f3ce-1817-4e5f-9802-eaaa25cf95a4.jpg)
 ## 2) When you type any ID(1-10) in the 'search box', it opens the user's details related to that ID. As shown -
 
+![Screenshot_2021-07-27-16-24-34-892_com android chrome](https://user-images.githubusercontent.com/53171696/127146985-a9f04371-92fc-4d0b-89c9-33dd1f05ed26.jpg)
+
+## 3) And when you click on that card, it expands to show some more details -
+
 ![Screenshot_2021-07-27-16-24-56-448_com android chrome](https://user-images.githubusercontent.com/53171696/127146466-2bc8cafb-049b-4395-8d29-0a202209d56a.jpg)
+
 
 # Getting Started with Create React App
 
