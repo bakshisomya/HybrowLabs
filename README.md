@@ -1,6 +1,6 @@
 # Assignment for HybrowLabs
 
-## 1) Created homepage like the image below which loaded data of users from [JSON Placeholder](https://jsonplaceholder.typicode.com/users)
+## 1) Created homepage like the image below which loaded data of users from [JSON Placeholder](https://jsonplaceholder.typicode.com/users) and displayed them using react-paginate
 
 ![Screenshot_2021-07-27-16-24-16-500_com android chrome](https://user-images.githubusercontent.com/53171696/127146133-6fb7f3ce-1817-4e5f-9802-eaaa25cf95a4.jpg)
 ## 2) When you type any ID(1-10) in the 'search box', it opens the user's details related to that ID. As shown -
@@ -11,6 +11,10 @@
 
 ![Screenshot_2021-07-27-16-24-56-448_com android chrome](https://user-images.githubusercontent.com/53171696/127146466-2bc8cafb-049b-4395-8d29-0a202209d56a.jpg)
 
+## 4) Some screenshots from dekstop view - 
+![Screenshot (16)](https://user-images.githubusercontent.com/53171696/127147361-8af466a3-7c24-451c-a086-55733df92d2f.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/53171696/127147371-80490983-b61c-41bf-a0f3-1971fe08c719.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/53171696/127147372-4d25bbf5-e1f9-4634-bb05-70ca08394f6d.png)
 
 # Getting Started with Create React App
 
