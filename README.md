@@ -1,3 +1,10 @@
+#Assignment for HybrowLabs
+
+1) Created homepage like the image below which loaded data of users from [JSON Placeholder](https://jsonplaceholder.typicode.com/users)
+
+![Screenshot_2021-07-27-16-24-16-500_com android chrome](https://user-images.githubusercontent.com/53171696/127146133-6fb7f3ce-1817-4e5f-9802-eaaa25cf95a4.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
